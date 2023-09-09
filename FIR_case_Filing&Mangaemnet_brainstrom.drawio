@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T06:27:08.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dIiI8Gx4nKL-U2SZZ0dY" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T06:58:47.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="izYdOBrctrU228ukrCc_" version="21.7.4" type="github">
   <diagram name="Page-1" id="JkmDuvs-5GVvqHCCLsDK">
-    <mxGraphModel dx="3686" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2773" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -567,8 +567,17 @@
         <mxCell id="KPATDTg-44lb-3zhlKoq-222" value="DATE/TIME" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="8460" y="4160" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="im4ME8sZQ__IDS_nZdJl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="im4ME8sZQ__IDS_nZdJl-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;search entry&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8270" y="2813" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5HpovOJrXDTvH6WBiSm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5HpovOJrXDTvH6WBiSm-1" target="KPATDTg-44lb-3zhlKoq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5HpovOJrXDTvH6WBiSm-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;not required , admin data is already created, and after login , admin can add other admin&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7890" y="410" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x5HpovOJrXDTvH6WBiSm-3" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;add admin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="7520" y="2550" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
