@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T13:11:40.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PAiVP7IOhPpcoDseBatO" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T16:18:36.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cdxskJavqpW6vgPuxFSF" version="21.7.4" type="github">
   <diagram name="Page-1" id="JkmDuvs-5GVvqHCCLsDK">
-    <mxGraphModel dx="1843" dy="2008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3225" dy="2637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -591,47 +591,83 @@
         <mxCell id="2Ngr9e4_YO5Gjw86ppo6-6" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-300" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yyMlDh4APbeZ0UsYW7G3-2" value="things to ask:&lt;br&gt;1.can i add js file inside a single html file?&lt;br&gt;2. how to set the input variables to string only" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yyMlDh4APbeZ0UsYW7G3-2" value="things to ask:&lt;br&gt;1.can i add js file inside a single html file?&lt;br&gt;2. how to set the input variables to string only" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1720" y="-510" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yyMlDh4APbeZ0UsYW7G3-4" value="what you will guys will do?&lt;br&gt;1. desing the category pages, FAQ , and About us pages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yyMlDh4APbeZ0UsYW7G3-4" value="what you will guys will do?&lt;br&gt;1. desing the category pages, FAQ , and About us pages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2090" y="-510" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yyMlDh4APbeZ0UsYW7G3-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;after successful registration a view will be shown i.e registration successful within same page.after that he&#39;wll be redirected to login page.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yyMlDh4APbeZ0UsYW7G3-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;after successful registration a view will be shown i.e registration successful within same page.after that he&#39;wll be redirected to login page.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2410" y="370" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="yyMlDh4APbeZ0UsYW7G3-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yyMlDh4APbeZ0UsYW7G3-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2700" y="480" as="sourcePoint" />
             <mxPoint x="2850" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yyMlDh4APbeZ0UsYW7G3-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4bEMeeUcjTMW6C8Yag3Z-4" target="4bEMeeUcjTMW6C8Yag3Z-4">
+        <mxCell id="yyMlDh4APbeZ0UsYW7G3-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4bEMeeUcjTMW6C8Yag3Z-4" target="4bEMeeUcjTMW6C8Yag3Z-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1860" y="1580.0007571269898" as="sourcePoint" />
             <mxPoint x="2035" y="1532.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yyMlDh4APbeZ0UsYW7G3-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4bEMeeUcjTMW6C8Yag3Z-4" target="4bEMeeUcjTMW6C8Yag3Z-4">
+        <mxCell id="yyMlDh4APbeZ0UsYW7G3-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4bEMeeUcjTMW6C8Yag3Z-4" target="4bEMeeUcjTMW6C8Yag3Z-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2130" y="1330" as="sourcePoint" />
             <mxPoint x="2180" y="1280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yyMlDh4APbeZ0UsYW7G3-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#4DFFCF;" vertex="1" parent="1">
+        <mxCell id="yyMlDh4APbeZ0UsYW7G3-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#4DFFCF;" parent="1" vertex="1">
           <mxGeometry x="2720" y="515" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yyMlDh4APbeZ0UsYW7G3-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.54;dx=39;direction=south;notch=0;fillColor=#0DFFB6;" vertex="1" parent="1">
+        <mxCell id="yyMlDh4APbeZ0UsYW7G3-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.54;dx=39;direction=south;notch=0;fillColor=#0DFFB6;" parent="1" vertex="1">
           <mxGeometry x="3530" y="860" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yyMlDh4APbeZ0UsYW7G3-17" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;my complaints&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
+        <mxCell id="yyMlDh4APbeZ0UsYW7G3-17" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;my complaints&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="1" vertex="1">
           <mxGeometry x="3354.32" y="1290" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yyMlDh4APbeZ0UsYW7G3-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;when filing the normal fir after login, same details need to be filled as quick FIR, but here the user&#39;s email is noted down since its done after the login. so in database there will be a record and it can be used to check my complaints section&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yyMlDh4APbeZ0UsYW7G3-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;when filing the normal fir after login, same details need to be filled as quick FIR, but here the user&#39;s email is noted down since its done after the login. so in database there will be a record and it can be used to check my complaints section&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3789" y="1340" width="361" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="yyMlDh4APbeZ0UsYW7G3-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=32.67;notch=0;fillColor=#6666FF;" vertex="1" parent="1">
+        <mxCell id="yyMlDh4APbeZ0UsYW7G3-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=32.67;notch=0;fillColor=#6666FF;" parent="1" vertex="1">
           <mxGeometry x="3722" y="1415" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10080" y="1100" width="2260" height="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;PICTURE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10340" y="1260" width="370" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;PICTURE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11010" y="1290" width="380" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;PICTURE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11670" y="1280" width="350" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-5" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;ABOUT US&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10540" y="1140" width="1340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;SALVIK BHOWAL&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10415" y="1773" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;SALVIK BHOWAL&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11080" y="1785" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;SALVIK BHOWAL&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11750" y="1776" width="220" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;BRIEF INTRO ABOUT OURSELF, OUR COLLEGE, OUR ACHIEVEMENTS,PROJECTS WORKED SO FAR, COMPETITION ETC.&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;CURRENT PROJECT, MY ROLE, MY CONTRIBUTION, ETC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11640" y="1820" width="540" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;BRIEF INTRO ABOUT OURSELF, OUR COLLEGE, OUR ACHIEVEMENTS,PROJECTS WORKED SO FAR, COMPETITION ETC.&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;CURRENT PROJECT, MY ROLE, MY CONTRIBUTION, ETC&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10940" y="1830" width="510" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-14" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;BRIEF INTRO ABOUT OURSELF, OUR COLLEGE, OUR ACHIEVEMENTS,PROJECTS WORKED SO FAR, COMPETITION ETC.&amp;nbsp;&lt;br&gt;&lt;br&gt;CURRENT PROJECT, MY ROLE, MY CONTRIBUTION, ETC&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10280" y="1830" width="510" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="US_twEW2IEIV9WfkUaZG-15" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;about this project;&lt;br&gt;&lt;br&gt;brief intro&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10470" y="2520" width="1510" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
