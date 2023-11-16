@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T08:43:26.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vy9K05ltGuLzpXbllf1U" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T08:43:44.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cRInP-EfDaLUagqBP5N6" version="22.1.2" type="github">
   <diagram name="Page-1" id="CHw2wgoBrfi9WDpYUXVN">
     <mxGraphModel dx="1075" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ogQs9MKbzwKdtU0zCuGk-28" value="FIR_status" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ogQs9MKbzwKdtU0zCuGk-26">
+        <mxCell id="ogQs9MKbzwKdtU0zCuGk-28" value="FIR_STATUS" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ogQs9MKbzwKdtU0zCuGk-26">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
