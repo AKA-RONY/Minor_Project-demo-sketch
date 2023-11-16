@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T08:50:04.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jjBraHtsdt14nn9QgVbt" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T08:52:05.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4D9wqbsDG3Md8VsWQajK" version="22.1.2" type="github">
   <diagram name="Page-1" id="CHw2wgoBrfi9WDpYUXVN">
     <mxGraphModel dx="1252" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -477,8 +477,8 @@
         <mxCell id="KNieBPecmbiKmPNY75c0-27" value="this is the databse where only the developer will have the access. They will set the username and password for the admins and give it to the police department.&lt;br&gt;when login into the admin panel they have to use those login creds that have been provided to the police department by the developers. Once they are in , they can see all the FIR_records / Quick FIR_records with ease. !!!&amp;nbsp;&amp;nbsp;&lt;br&gt;so in case if some unknown person enters into the database, the developer can easily remove the access or change the login creds . This will prevent the unauthorised access.&lt;br&gt;later if the police department ask for the admin_db permission then the developer can give the access to them, and the rest will be done by them ." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2030" y="670" width="490" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="KNieBPecmbiKmPNY75c0-30" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;e-Crime Report Hub: database&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="530" width="930" height="30" as="geometry" />
+        <mxCell id="KNieBPecmbiKmPNY75c0-30" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;e-Crime Report Hub: database design&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="530" width="930" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KNieBPecmbiKmPNY75c0-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;users_table&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="251" y="620" width="120" height="30" as="geometry" />
